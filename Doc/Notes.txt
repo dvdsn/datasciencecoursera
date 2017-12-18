@@ -1,0 +1,25 @@
+
+> obs
+
+Types of data science (DS) questions:
+
+- Description
+- Exploration
+- Inference
+- Prediction
+- Causal relation
+- Mechanistic understanding
+
+
+Components of a project:
+
+- Description of the question you want to address, why it is important, and the set of things or people that you want to study
+- Analysis of previously-collected or -reported results
+- Plan for new data collection
+- Plan for analyzing the data you will collect
+- Simulation to develop tools for analysis
+- Code to carry out the analysis you planned
+- Code developed to carry out new analyses that were suggested by the data
+- Plan for sharing the data you collected
+- Plan for sharing the code you used for analysis
+- Plan to share a 'data product' -- a tool, website, blog-post, paper, or presentation that integrates the data and code in such a way that a person to whom you would like to communicate the results can understand what you have done and why it is important
